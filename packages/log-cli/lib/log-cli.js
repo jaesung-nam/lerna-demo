@@ -2,7 +2,7 @@
 
 const { program } = require('commander')
 const LogCore = require('overpowerman-log-core')
-
+console.log("e")
 // action
 program.action(cmd => LogCore())
 
