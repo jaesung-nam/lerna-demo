@@ -1,6 +1,6 @@
 {
-  "name": "overpowerman-log-cli",
-  "version": "1.0.5",
+  "name": "overpower-log-cli",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "jasper.nam <jasper.nam@kakaoenterprise.com>",
   "homepage": "https://github.com/jaesung-nam/lerna-demo#readme",
@@ -30,5 +30,5 @@
   "bin": {
     "log-cli": "lib/log-cli.js"
   },
-  "gitHead": "24ea79bcd176911d9c3aa9fb5bf43991903a5c97"
+  "gitHead": "7ce8386b0ae6fe97cfa4718daf8a91dfa0ab5ccd"
 }
