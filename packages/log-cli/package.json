@@ -1,0 +1,26 @@
+{
+  "name": "log-cli",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "jasper.nam <jasper.nam@kakaoenterprise.com>",
+  "homepage": "https://github.com/jaesung-nam/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/log-cli.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaesung-nam/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/jaesung-nam/lerna-demo/issues"
+  }
+}
