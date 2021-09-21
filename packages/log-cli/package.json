@@ -1,6 +1,6 @@
 {
   "name": "overpowerr-log-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "jasper.nam <jasper.nam@kakaoenterprise.com>",
   "homepage": "https://github.com/jaesung-nam/lerna-demo#readme",
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "commander": "^8.2.0",
-    "overpowerr-log-core": "^1.0.2"
+    "overpowerr-log-core": "^1.0.3"
   },
   "bin": {
     "log-cli": "lib/log-cli.js"
