@@ -29,5 +29,6 @@
   },
   "bin": {
     "log-cli": "lib/log-cli.js"
-  }
+  },
+  "gitHead": "cbff3e9fbee4eadea725511f6278f869cfd1aec6"
 }
