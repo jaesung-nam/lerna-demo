@@ -6,6 +6,7 @@
 
 ```
 const logCli = require('log-cli');
+  
 
 // TODO: DEMONSTRATE API
 ```
