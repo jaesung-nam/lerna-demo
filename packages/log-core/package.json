@@ -1,5 +1,5 @@
 {
-  "name": "@overpowerman/log-core",
+  "name": "overpowerman-log-core",
   "version": "1.0.3",
   "description": "> TODO: description",
   "author": "jasper.nam <jasper.nam@kakaoenterprise.com>",
@@ -26,5 +26,5 @@
   "dependencies": {
     "chalk": "^4.1.2"
   },
-  "gitHead": "cbff3e9fbee4eadea725511f6278f869cfd1aec6"
+  "gitHead": "24ea79bcd176911d9c3aa9fb5bf43991903a5c97"
 }
