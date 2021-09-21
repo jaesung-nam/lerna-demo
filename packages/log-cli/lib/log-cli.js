@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const { program } = require('commander')
-const LogCore = require('overpowerman-log-core')
+const LogCore = require('overpower-log-core')
 console.log("e")
 // action
 program.action(cmd => LogCore())
