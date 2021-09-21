@@ -1,6 +1,6 @@
 {
   "name": "@overpowerman/log-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "jasper.nam <jasper.nam@kakaoenterprise.com>",
   "homepage": "https://github.com/jaesung-nam/lerna-demo#readme",
@@ -24,7 +24,7 @@
     "url": "https://github.com/jaesung-nam/lerna-demo/issues"
   },
   "dependencies": {
-    "@overpowerman/log-core": "^1.0.1",
+    "@overpowerman/log-core": "^1.0.2",
     "commander": "^8.2.0"
   },
   "bin": {
